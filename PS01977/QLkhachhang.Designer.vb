@@ -40,6 +40,7 @@ Partial Class frmQLKH
         Me.Label6 = New System.Windows.Forms.Label()
         Me.ptbKH = New System.Windows.Forms.PictureBox()
         Me.btnBack = New System.Windows.Forms.Button()
+        Me.btnGithub = New System.Windows.Forms.Button()
         CType(Me.viewkh, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.ptbKH, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -49,7 +50,7 @@ Partial Class frmQLKH
         Me.btnThoat.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
         Me.btnThoat.ForeColor = System.Drawing.SystemColors.Desktop
         Me.btnThoat.Location = New System.Drawing.Point(432, 322)
-        Me.btnThoat.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnThoat.Margin = New System.Windows.Forms.Padding(4)
         Me.btnThoat.Name = "btnThoat"
         Me.btnThoat.Size = New System.Drawing.Size(100, 28)
         Me.btnThoat.TabIndex = 31
@@ -61,7 +62,7 @@ Partial Class frmQLKH
         Me.btnXoa.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
         Me.btnXoa.ForeColor = System.Drawing.SystemColors.Desktop
         Me.btnXoa.Location = New System.Drawing.Point(297, 322)
-        Me.btnXoa.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnXoa.Margin = New System.Windows.Forms.Padding(4)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(100, 28)
         Me.btnXoa.TabIndex = 30
@@ -73,7 +74,7 @@ Partial Class frmQLKH
         Me.btnSua.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
         Me.btnSua.ForeColor = System.Drawing.SystemColors.Desktop
         Me.btnSua.Location = New System.Drawing.Point(165, 322)
-        Me.btnSua.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnSua.Margin = New System.Windows.Forms.Padding(4)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(100, 28)
         Me.btnSua.TabIndex = 29
@@ -85,7 +86,7 @@ Partial Class frmQLKH
         Me.btnThem.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
         Me.btnThem.ForeColor = System.Drawing.SystemColors.Desktop
         Me.btnThem.Location = New System.Drawing.Point(29, 322)
-        Me.btnThem.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnThem.Margin = New System.Windows.Forms.Padding(4)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(100, 28)
         Me.btnThem.TabIndex = 28
@@ -96,7 +97,7 @@ Partial Class frmQLKH
         '
         Me.viewkh.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.viewkh.Location = New System.Drawing.Point(81, 368)
-        Me.viewkh.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.viewkh.Margin = New System.Windows.Forms.Padding(4)
         Me.viewkh.Name = "viewkh"
         Me.viewkh.Size = New System.Drawing.Size(543, 185)
         Me.viewkh.TabIndex = 27
@@ -159,7 +160,7 @@ Partial Class frmQLKH
         'txtGioitinh
         '
         Me.txtGioitinh.Location = New System.Drawing.Point(189, 261)
-        Me.txtGioitinh.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtGioitinh.Margin = New System.Windows.Forms.Padding(4)
         Me.txtGioitinh.Name = "txtGioitinh"
         Me.txtGioitinh.Size = New System.Drawing.Size(212, 22)
         Me.txtGioitinh.TabIndex = 20
@@ -167,7 +168,7 @@ Partial Class frmQLKH
         'txtSodt
         '
         Me.txtSodt.Location = New System.Drawing.Point(189, 155)
-        Me.txtSodt.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtSodt.Margin = New System.Windows.Forms.Padding(4)
         Me.txtSodt.Name = "txtSodt"
         Me.txtSodt.Size = New System.Drawing.Size(212, 22)
         Me.txtSodt.TabIndex = 18
@@ -175,7 +176,7 @@ Partial Class frmQLKH
         'txtDiachi
         '
         Me.txtDiachi.Location = New System.Drawing.Point(189, 208)
-        Me.txtDiachi.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtDiachi.Margin = New System.Windows.Forms.Padding(4)
         Me.txtDiachi.Name = "txtDiachi"
         Me.txtDiachi.Size = New System.Drawing.Size(212, 22)
         Me.txtDiachi.TabIndex = 19
@@ -183,7 +184,7 @@ Partial Class frmQLKH
         'txtTenkh
         '
         Me.txtTenkh.Location = New System.Drawing.Point(189, 101)
-        Me.txtTenkh.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtTenkh.Margin = New System.Windows.Forms.Padding(4)
         Me.txtTenkh.Name = "txtTenkh"
         Me.txtTenkh.Size = New System.Drawing.Size(212, 22)
         Me.txtTenkh.TabIndex = 17
@@ -191,7 +192,7 @@ Partial Class frmQLKH
         'txtMakh
         '
         Me.txtMakh.Location = New System.Drawing.Point(189, 60)
-        Me.txtMakh.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.txtMakh.Margin = New System.Windows.Forms.Padding(4)
         Me.txtMakh.Name = "txtMakh"
         Me.txtMakh.Size = New System.Drawing.Size(212, 22)
         Me.txtMakh.TabIndex = 16
@@ -229,12 +230,22 @@ Partial Class frmQLKH
         Me.btnBack.Text = "Back"
         Me.btnBack.UseVisualStyleBackColor = True
         '
+        'btnGithub
+        '
+        Me.btnGithub.Location = New System.Drawing.Point(643, 368)
+        Me.btnGithub.Name = "btnGithub"
+        Me.btnGithub.Size = New System.Drawing.Size(75, 23)
+        Me.btnGithub.TabIndex = 35
+        Me.btnGithub.Text = "Github"
+        Me.btnGithub.UseVisualStyleBackColor = True
+        '
         'frmQLKH
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.LightGoldenrodYellow
         Me.ClientSize = New System.Drawing.Size(729, 566)
+        Me.Controls.Add(Me.btnGithub)
         Me.Controls.Add(Me.btnBack)
         Me.Controls.Add(Me.ptbKH)
         Me.Controls.Add(Me.Label6)
@@ -254,7 +265,7 @@ Partial Class frmQLKH
         Me.Controls.Add(Me.txtTenkh)
         Me.Controls.Add(Me.txtMakh)
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "frmQLKH"
         Me.Text = "QL Khách hàng"
         CType(Me.viewkh, System.ComponentModel.ISupportInitialize).EndInit()
@@ -281,4 +292,5 @@ Partial Class frmQLKH
     Friend WithEvents Label6 As System.Windows.Forms.Label
     Friend WithEvents ptbKH As System.Windows.Forms.PictureBox
     Friend WithEvents btnBack As System.Windows.Forms.Button
+    Friend WithEvents btnGithub As System.Windows.Forms.Button
 End Class

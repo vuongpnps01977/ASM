@@ -16,3 +16,6 @@ C:\Users\BB\Desktop\vuongpnps01977_asm_gd2_inf205\PS01977\PS01977\obj\x86\Debug\
 C:\Users\BB\Desktop\inf205\vuongpnps01977_asm_gd2_inf205\PS01977\PS01977\obj\x86\Debug\PS01977.exe
 C:\Users\BB\Desktop\inf205\vuongpnps01977_asm_gd2_inf205\PS01977\PS01977\obj\x86\Debug\PS01977.xml
 C:\Users\BB\Desktop\inf205\vuongpnps01977_asm_gd2_inf205\PS01977\PS01977\obj\x86\Debug\PS01977.pdb
+C:\Users\BB\Documents\GitHub\ASM\PS01977\obj\x86\Debug\PS01977.exe
+C:\Users\BB\Documents\GitHub\ASM\PS01977\obj\x86\Debug\PS01977.xml
+C:\Users\BB\Documents\GitHub\ASM\PS01977\obj\x86\Debug\PS01977.pdb

@@ -18,6 +18,6 @@
     End Sub
 
     Private Sub frmmain_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
+        ' Chỉnh sửa thêm vào 1 số thứ kiểm tra viêc chia sẽ github (ps01977)
     End Sub
 End Class

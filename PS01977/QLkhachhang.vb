@@ -114,4 +114,12 @@ Public Class frmQLKH
         Me.Close()
         frmmain.Show()
     End Sub
+
+    Private Sub Label5_Click(sender As Object, e As EventArgs) Handles Label5.Click
+        ' Thêm lable github 01977
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btnGithub.Click
+        ' Thêm button github
+    End Sub
 End Class
