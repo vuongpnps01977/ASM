@@ -1,0 +1,18 @@
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\bin\Debug\PS01977.exe
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\bin\Debug\PS01977.pdb
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\bin\Debug\PS01977.xml
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\obj\x86\Debug\PS01977.frmhtbh.resources
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\obj\x86\Debug\PS01977.frmmain.resources
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\obj\x86\Debug\PS01977.Resources.resources
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\obj\x86\Debug\PS01977.vbproj.GenerateResource.Cache
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\obj\x86\Debug\PS01977.exe
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\obj\x86\Debug\PS01977.xml
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\obj\x86\Debug\PS01977.pdb
+C:\Users\BB\documents\visual studio 2010\Projects\PS01977\PS01977\obj\x86\Debug\PS01977.frmQLsanpham.resources
+C:\Users\BB\Documents\Visual Studio 2010\Projects\PS01977\PS01977\obj\x86\Debug\PS01977.frmQLKH.resources
+C:\Users\BB\Desktop\vuongpnps01977_asm_gd2_inf205\PS01977\PS01977\obj\x86\Debug\PS01977.exe
+C:\Users\BB\Desktop\vuongpnps01977_asm_gd2_inf205\PS01977\PS01977\obj\x86\Debug\PS01977.xml
+C:\Users\BB\Desktop\vuongpnps01977_asm_gd2_inf205\PS01977\PS01977\obj\x86\Debug\PS01977.pdb
+C:\Users\BB\Desktop\inf205\vuongpnps01977_asm_gd2_inf205\PS01977\PS01977\obj\x86\Debug\PS01977.exe
+C:\Users\BB\Desktop\inf205\vuongpnps01977_asm_gd2_inf205\PS01977\PS01977\obj\x86\Debug\PS01977.xml
+C:\Users\BB\Desktop\inf205\vuongpnps01977_asm_gd2_inf205\PS01977\PS01977\obj\x86\Debug\PS01977.pdb
